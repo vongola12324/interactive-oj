@@ -16,7 +16,6 @@ Now Version: v0.0.0
 
 
 
-
                                 Big Change (Start from 0)
                                    ↓
 Description of Version Number =>   0 . 0 . 0  ← Some little bug fix
