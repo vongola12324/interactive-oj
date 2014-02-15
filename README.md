@@ -6,7 +6,7 @@ The Interactive-Online Judge will give you a chance to ask Judger "WHY?"
 
 
 <h3>Target:</h3><br>
-1. Language Support: C、C++、Pascal、Java、Perl、Python、Ruby、VB.<br>
+1. Language Support: C、C++、Pascal、Java、Perl、Python、Ruby.<br>
 2. Support Exam Mode.<br>
 3. A Q&A system for User&Judger.<br>
 4. Beautiful & Gorgeous User Interface<br>
